@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-volrod01s-projects.vercel.app/api/top-langs?username=volrod01&exclude_repo=AtelierJS,github-readme-stats,eplace&hide=html,css,TeX,JetBrains%20MPS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=43200" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-volrod01s-projects.vercel.app/api?username=volrod01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=43200" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-volrod01s-projects.vercel.app/api/top-langs?username=alexisVoVo&exclude_repo=AtelierJS,github-readme-stats,eplace&hide=html,css,TeX,JetBrains%20MPS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&cache_seconds=43200" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-volrod01s-projects.vercel.app/api?username=alexisVoVo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&cache_seconds=43200" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -49,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/volrod01/volrod01/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alexisVoVo/volrod01/output/snake.svg" alt="Snake animation" />
 
 ###
